@@ -6,11 +6,11 @@ Hope u love it.
 
 ## Available Scripts
 
-Initially you need to run  ### `npm install` for node modules.
+Initially you need to run  `npm install` for node modules.
 
 Then , as i used json-server and concurrently to run server and project at a time 
 
-U need to run ### `npm run start:dev`.
+U need to run `npm run start:dev`.
 
 
 
