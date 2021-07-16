@@ -1,0 +1,211 @@
+{
+    "movies":[
+        {
+            "title" : "Zindagi Na Milegi Dobara",
+            "language" : "Hindhi",
+            "description" : "Three friends decide to turn their fantasy vacation into reality after one of their friends gets engaged.",
+            "genre": "Comedy",
+            "director": "Zoya Aktar",
+            "rating": "8.2",
+            "image": "https://img.discogs.com/67FIvDFSfeEklwpz98557O2UAUU=/fit-in/600x702/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9807232-1592518366-9736.jpeg.jpg"
+        },
+        {
+            "title" : "Dil Chahta Hai",
+            "language" : "Hindhi",
+            "description" : "Three inseparable childhood friends are just out of college. Nothing comes between them - until they each fall in love, and their wildly different approaches to relationships creates tension.",
+            "genre": "Comedy",
+            "director": "Farhan Akhtar",
+            "rating": "8.1",
+            "image": "https://s3.ap-south-1.amazonaws.com/cinebee-content/movie_images/movie/4538335712247808/tijs8auk.jpg"
+        },
+        {
+            "title": "Bhaag Milkha Bhaag",
+            "language" : "Hindhi",
+            "description": "The truth behind the ascension of Milkha Singh who was scarred because of the India-Pakistan partition.",
+            "genre": "Biography",
+            "director": "Rakeysh Omprakash Mehra",
+            "rating": "8.2",
+            "image": "https://upload.wikimedia.org/wikipedia/en/4/42/Bhaag_Milkha_Bhaag_poster.jpg"
+        },
+        {
+            "title": "Munna Bhai M.B.B.S.",
+            "language" : "Hindhi",
+            "description": "A gangster sets out to fulfill his father's dream of becoming a doctor.",
+            "genre": "Comedy",
+            "director": "Rajkumar Hirani",
+            "rating": "8.1",
+            "image": "https://upload.wikimedia.org/wikipedia/en/8/84/Munna_Bhai_M.B.B.S._poster.jpg"
+        },
+        {
+            "title": "PK",
+            "language" : "Hindhi",
+            "description": "An alien on Earth loses the only device he can use to communicate with his spaceship. His innocent nature and child-like questions force the country to evaluate the impact of religion on its people.",
+            "genre": "Comedy",
+            "director":"Rajkumar Hirani",
+            "rating": "8.1",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_.jpg"
+        },
+        {
+            "title": "Kahani",
+            "language" : "Hindhi",
+            "description": "The story revolves around a pregnant woman searching for her missing husband in the city of Kolkata, with the help of a police officer.",
+            "genre": "Thriller",
+            "director": "Sujoy Ghosh",
+            "rating": "8.1",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kahaani_poster.jpg/220px-Kahaani_poster.jpg"
+        },
+        {
+            "title": "Talaash",
+            "language" : "Hindhi",
+            "description": "A police officer engages in solving the death of a well-known actor while dealing with the death of his own son and what he finds out is quite unexpected!",
+            "genre": "Thriller",
+            "director": "Reema Kagti",
+            "rating": "7.2",
+            "image": "https://upload.wikimedia.org/wikipedia/en/f/f3/Talaash_poster.jpg"
+        },
+        {
+            "title": "Fanaa",
+            "language": "Hindhi",
+            "description": "A sweet blind girl Zooni meets a flirty Rehan. She ignores her friends' warnings. It's her time to discover life. Is she making the right love choice?",
+            "genre": "Romance",
+            "director": "Kunal Kohli",
+            "rating": "7.9",
+            "image":  "https://m.media-amazon.com/images/M/MV5BYzhkNTYzMzktNmZlZi00YmU4LTlmYjgtZTJmYWJjZWI5ZGRkXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_.jpg"
+        },
+        {
+            "title": "Kushi",
+            "language": "telugu",
+            "description":"While playing matchmaker to a pair of their friends, two young university students begin developing feelings for each other.",
+            "genre":"Romance",
+            "director":"S.J. Suryah",
+            "rating":"8",
+            "image":"https://upload.wikimedia.org/wikipedia/en/2/27/Kushi_Theatrical_Poster.jpg"
+        },
+        {
+            "title":"Bhadra",
+            "language":"telugu",
+            "description":"Bhadra sees Raja's sister Anu on a video & falls in love with her. Badra visits Raja's home & he realises that, Raja's family is highly involved in feud Actions. In a rival gang fight except Anu Raja's entire family is brutality murdered by gang leader Veerayya. Bhadra rescues Anu & takes her to his home. The rest of the story is all about how he protects her & eradicates Veeraiah and his gang.",
+            "genre":"Action",
+            "director":"Boyapati Srinu",
+            "rating":"6.7",
+            "image":"https://upload.wikimedia.org/wikipedia/en/1/15/Bhadra_poster.jpg"
+        },
+        {
+            "title":"Sakhi",
+            "language":"telugu",
+            "description":"After a difficult Romance in a class-divided society, the love birds find out marriage is not what they thought it would be.",
+            "genre":"Romance",
+            "director":"Mani Ratnam",
+            "rating":"8.3",
+            "image":"https://i.pinimg.com/originals/63/25/bd/6325bda2b21aafb280e7518d57e27177.jpg"
+        },
+        {
+            "title": "Vikramarkudu",
+            "language":"telugu",
+            "description":"Vikram Rathod, a policeman, joins with a small time thief Satthi Babu who looks identical to him to avenge his own destruction.",
+            "genre":"Action",
+            "director":"S.S. Rajamouli",
+            "rating":"7.7",
+            "image":"https://upload.wikimedia.org/wikipedia/en/4/49/Vikramarkudu_Poster_HD.jpg"
+        },
+        {
+            "title":"Andala Ramudu",
+            "language":"telugu",
+            "description":"Ramudu returns home after 12 years to marry his cousin, Radha, but becomes despondent after learning of her relationship with Raghu. However, his stepbrother plots to unite Ramudu and Radha.",
+            "genre":"Comedy",
+            "director":"Lakshmi Narayana",
+            "rating":"6",
+            "image":"https://rukminim1.flixcart.com/image/416/416/av-media/movies/6/k/x/andala-ramudu-original-imadd5pyczweugvw.jpeg?q=70"
+        },
+        {
+            "title": "Raghu",
+            "language":"telugu",
+            "description":"Raghuvaran, an educated yet unemployed engineer, is unwilling to accept jobs that are unrelated to his area of expertise. Soon, his mother's tragic death brings him a job as well as grave challenges.",
+            "genre":"Comedy",
+            "director": "Velraj",
+            "rating":"7.2",
+            "image":"https://images-na.ssl-images-amazon.com/images/I/81uE8DA9q%2BL._SY450_.jpg"
+        },
+        {
+            "title":"Ratri",
+            "language":"telugu",
+            "description":"The Sharma move to a semi-urban location to a house which has a `reputation'. When strange things start happening in the house, the family begin to wonder if what is happening natural or supernatural.",
+            "genre": "Horror",
+            "director": "Ram Gopal Varma",
+            "rating":"7",
+            "image":"https://alchetron.com/cdn/Raat-film-images-ed94b420-afed-4b2c-b965-8583d1229b4.jpg"
+        },
+        {
+            "title":"Golmaal",
+            "language":"Hindhi",
+            "description": "Four runaway crooks take shelter in a bungalow which is owned by a blind couple.",
+            "genre":"Comedy",
+            "director": "Rohit Shetty",
+            "rating": "7",
+            "image": "https://upload.wikimedia.org/wikipedia/en/b/b4/Golmaal-Fun_Unlimited.jpg"
+        },
+        {
+            "title":"Hera Pheri",
+            "language":"Hindhi",
+            "description": "Three unemployed men look for answers to all their money problems - but when their opportunity arrives, will they know what to do with it?",
+            "genre":"Comedy",
+            "director": "Priyadarshan",
+            "rating":"8.2",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Hera_Pheri_2000_poster.jpg/220px-Hera_Pheri_2000_poster.jpg"
+        },
+        {
+            "title":"Ittefaq",
+            "language":"Hindhi",
+            "description":"A detective seeks out the truth between two different stories of a crime scene.",
+            "genre":"Thriller",
+            "director":"Abhay Chopra",
+            "rating":"7.2",
+            "image": "https://upload.wikimedia.org/wikipedia/en/f/f0/Ittefaq_%282017%29.jpg"
+        },
+        {
+            "title": "1920",
+            "language":"Hindhi",
+            "description":"After forsaking his family and religion, a husband finds his wife is demoniacally possessed.",
+            "director": "Vikram Bhatt",
+            "genre":"Horror",
+            "rating":"8",
+            "image":"https://m.media-amazon.com/images/M/MV5BNjQ2N2QzYzktZGNjYy00ZTUyLWE2ZjYtMTEzZGY4YzIwNTJlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "title":"Kanchana",
+            "language":"telugu",
+            "description":"All hell breaks loose when Raghava is possessed by an evil spirit.",
+            "director": "Lawrence Raghavendra",
+            "genre":"Horror",
+            "rating":"6.6",
+            "image":"https://play-lh.googleusercontent.com/UuQ1uAlQgX31QmLHEMU9BqYBn2VR8Wr9nO2ZbLttV0DhT0vqtoIoe0PDrc6Yn60soQY"
+        },
+        {
+            "title": "Marrichettu",
+            "language":"telugu",
+            "description":"Jhilmil and Virag move to their new house with son Rohan and Jhilmil's younger sister Radhika. There is an old tree outside the house. The tree and the house are haunted by the dead.",
+            "director":"Saurab Narang",
+            "genre":"Horror",
+            "rating":"6",
+            "image": "https://etv-win-image.akamaized.net/etvwin/telugumovies/marrichettu/92655/marrichettu-Marrichettu_Movie-320x240.jpg"
+        },
+        {
+            "title": "Cocktail",
+            "description":"A love triangle between a guy and two girls, who are best friends but the complete opposite of one another.",
+            "language":"Hindhi",
+            "director": "Homi Adajania",
+            "genre": "Comedy",
+            "rating": "6.3",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjYyY2U2MjUtNTdkYS00ZjM5LTllNTUtYWFkZGVhYWU1YjEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg"
+        },
+        {
+            "title":"Race",
+            "language":"Hindhi",
+            "description":"Destiny makes two brothers- Ranvir and Rajiv - enemies of each other. Everything is fair in love and war.",
+            "director": "Abbas Mastan",
+            "genre":"Thriller",
+            "rating":"6.7",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTkyNTU1OTk2Nl5BMl5BanBnXkFtZTcwMjU5NTk5Mw@@._V1_.jpg"
+        }
+    ]
+}
